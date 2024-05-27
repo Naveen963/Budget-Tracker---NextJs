@@ -1,0 +1,9 @@
+Prisma Commands  (Prisma is an ORM like a database connectivity)
+Installation: 
+ npm i prisma --save-dev  
+ npm i @prisma/client
+
+ Run :
+   npx prisma init ---> to create folder prisma and schema file
+   npx prisma migrate dev --> after writing schema run this to create schema
+   npx prisma studio--> to run local server studio
