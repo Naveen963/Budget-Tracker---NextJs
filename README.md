@@ -1,6 +1,6 @@
 # Budget Tracker Application Using Next Js
 
-[Click here for Live Demo](https://budget-tracker-next-jmj3exp1z-naveen963s-projects.vercel.app/sign-in)
+[Click here for Live Demo](https://budget-tracker-next-js.vercel.app/sign-in)
 
 ### HomePage
 
